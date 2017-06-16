@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ this.title }}{% endblock %}
+
+{% block head %}
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+	{{ this.head }}
+{% endblock %}
+   
+{% block body %}
+	<div style="background-color: white">
+	навигация:
+	<ul>
+		{% set crumbs = [] %}
+		{% set current = {'crumb': this} %}
+		{% for i in this._path.split("/") %}
+			{% if current.crumb is not none %}
+				{% if crumbs.insert(0, current.crumb) %}{% endif %}
+				{% if current.update({"crumb": current.crumb.parent}) %}{% endif %}
+			{% endif %}
+		{% endfor %}
+		{% for crumb in crumbs %}
+			{% if this._path == crumb._path %}
+				<li class="active">{{ crumb.title }}</li>
+			{% else %}
+				<li><a href="{{ crumb|url }}">{{ crumb.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+    </ul>
+	</div>
+   <div style="background-image: url(/static/css/img/ola-b.jpg); 
+				padding: 15px;
+				width: 85%;
+				margin: 0 auto;">
+	{{ this.body }}
+   </div>
+{% endblock %}

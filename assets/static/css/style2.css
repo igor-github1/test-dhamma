@@ -1,0 +1,153 @@
+/* ------------- Created by Kuzin-Aleksinskiy A.S., 2013, Feb ------------- END*/
+/* Оглавление */
+ul.toc_main{
+	list-style-type:none;
+	padding-left:20px;
+}
+li.toc_main_i{
+	margin-bottom:1em;
+}
+
+/* Ссылка в оглавлении */
+a.toc_main:link{
+	text-decoration:none;
+}
+a.toc_main:visited{
+	color: #800080;
+	text-decoration: none;
+}
+a.toc_main:hover{
+	color: green;
+	text-decoration: underline;
+}
+a.toc_main:active {
+	color: #000080;
+	text-decoration: underline; 
+}
+
+/* Основной текст */
+p.text_main{
+	text-indent:20px;
+	text-align: justify;
+	margin-top: 1em;
+}
+
+/* Слой для цитаты из ведических писаний */
+div.div_cite_veda{
+	width:80%;
+	margin-left:20%;
+	margin-right:20%;
+}
+
+/* Цитата из ведических писаний */
+p.text_cite_veda{
+	word-spacing:3px;
+	font-size:105%;
+	letter-spacing:2px;
+	text-indent:0px;
+}
+
+/* Слой для цитаты из Палийского канона */
+div.div_cite_pcanon{
+	width:90%;
+	margin:3% 5% 3% 5%;
+}
+
+/* Цитата из из Палийского канона */
+p.text_cite_pcanon{
+	word-spacing:1px;
+	font-size:90%;
+	letter-spacing:1px;
+	text-indent:15px;	
+	text-align:justify;
+}
+
+/* Ссылка в тексте на примечание переводчика */
+a.note_trans_link{
+	text-decoration:none;
+	color:forestgreen;
+	font-weight:bold;
+	letter-spacing:2px;
+}
+a.note_trans_link:hover{
+	text-decoration:underline;
+	color:forestgreen;
+	font-weight:bold;	
+}
+
+/* Текст примечания переводчика */
+p.text_note_trans{
+	text-indent:15px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+div.cur_active_note{
+	position:fixed;
+	align:center;
+	width:80%;
+	max-height:40%;
+	border:solid;
+	border-color:darkgreen;
+	border-width:1px;
+	background-color:wheat;
+	margin-left:10%;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+
+/* Ссылка в тексте на примечание автора */
+a.note_auth_link{
+	text-decoration:none;
+	color:#22228B;
+	font-weight:bold;
+	letter-spacing:2px;
+}
+a.note_auth_link:hover{
+	text-decoration:underline;
+	color:#22228B;
+	font-weight:bold;	
+}
+
+/* Текст примечания переводчика */
+p.text_note_auth{
+	text-indent:15px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+/* Разделительная горизонтальная линия */
+hr{
+	border: 1px solid rgb(57, 90, 185);
+}
+
+/* Слой для изображение в тексте */
+div.intext_image_div {
+    float: left;
+    margin: 0.5% 0.5% 0.5% 0.5%;
+    max-width: 40%;
+	border-style:solid;
+	border-width:1px;
+	border-color:DimGray;
+	box-shadow: 3px 3px 1px DimGray;
+	
+}
+
+/* Изображение в слое для изображения в тексте */
+img.intext_image_image {
+    width: 100%;
+}
+
+/* Подпись под изображением */
+p.intext_image_text{
+	font-size:80%;
+	line-height:120%;
+	text-indent: 0px;	
+	padding-left: 3px;
+}
+
+/* Термин */
+span.termOrigin{
+	letter-spacing:3;
+}
+

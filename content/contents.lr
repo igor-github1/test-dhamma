@@ -1,0 +1,332 @@
+_model: main_page
+---
+title: Колесо Дхаммы. Сайт учения Будды в его исходном виде.
+---
+head:
+
+	<meta name="keywords" content="буддизм, медитация, Будда,
+	  пробуждение, буддийский, монах, просветление, буддист,
+	  осознанность, сосредоточение, випассана, тхеравада">
+	<meta name="description" content="Колесо Дхаммы. Сайт учения Будды в
+	  его исходном виде. Пеpвоисточники, куpсы и учебные пособия по
+	  дpевнейшей тpадиции буддизма - Тхеpавада. Форум. Сборник переводов
+	  палийских сутт.">
+	<script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-20416732-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+---
+body:
+
+	<!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter21954574 = new Ya.Metrika({
+                        id: 21954574,
+                        webvisor: true,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true
+                    });
+                } catch (e) {}
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function() {
+                    n.parentNode.insertBefore(s, n);
+                };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else {
+                f();
+            }
+        })(document, window, "yandex_metrika_callbacks");
+
+    </script> <noscript>
+        <div><img src="//mc.yandex.ru/watch/21954574" style="position:absolute; left:-9999px;" alt=""></div>
+    </noscript>
+
+    <div id="content">
+        <div id="left">
+          <div id="login" class="boxed">
+            <h2 class="title">Поиск по сайту</h2>
+            <div class="content2"> <img src="static/img/direction.png"><a
+                href="index-subject.html" title="Предметный указатель">Предметный указатель</a> <br>
+              <img src="static/img/direction.png"><a href="index-author.html"
+                title="Указатель авторов">Указатель по авторам</a> <br>
+              <img src="static/img/direction.png"><a href="index-sutta.html"
+                title="Указатель сутт">Указатель сутт</a> <br>
+              <a href="http://dhamma.ru/posteritymitral.php">
+                <!-- joyous-hitch --> </a> <a
+                href="http://softwaresanta.com/binarysurfacetosurf.php?ld=36718"
+                rel="nofollow">
+                <!-- sincere --> </a> <br>
+              <form action="http://www.yandex.ru/yandsearch"
+                method="get" rel="nofollow">
+                <fieldset> <input name="text" size="15" maxlength="160"
+                    type="text"> <input name="serverurl"
+                    value="dhamma.ru" type="hidden"> <input id="submit1" name="submit1" value="Найти!" type="submit"> </fieldset>
+                        </form>
+                    </div>
+                </div>
+                    <div id="list" class="boxed">
+                        <h2 class="title">Рассылка</h2>
+                        <div class="content2">Чтобы быть в курсе новых материалов и событий, подпишитесь на рассылку:
+                            <form target="_top" action="http://subscribe.ru/member/quick" method="post" rel="nofollow">
+                                <input name="action" value="quick" type="hidden">
+                                <table cellspacing="0" cellpadding="2" border="1">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" bgcolor="#fcf5e9"><font size="-2">Рассылки <a href="http://subscribe.ru/" rel="nofollow"><b>Subscribe.Ru</b></a></font>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2" valign="middle" align="center" bgcolor="#ffffff"><font size="-2"> <input name="grp" value="religion.theravada" type="hidden"><a href="http://subscribe.ru/catalog/religion.theravada" target="_top" rel="nofollow">"Пробуждение"
+                              – Новости буддизма традиции Тхеравада</a><br>
+                            <input name="email" size="20" maxlength="100" value="ваш e-mail" style="font-size: 9pt;" type="text"> <input value="OK" style="font-size: 9pt;" type="submit"></font></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <input name="src" value="list_religion.theravada" type="hidden">
+                            </form>
+                        </div>
+                    </div>
+                <!-- <a href="http://dhamma.ru/posteritymitral.php">joyous-hitch</a> -->
+                <div id="updates" class="boxed">
+                    <h2 class="title">Как поддержать сайт</h2>
+                    <div class="content2"> <a href="http://bps.dhamma.ru/account.html" rel="nofollow"><b>Наши
+                  реквизиты</b></a> </div>
+                    <a href="http://dhamma.ru/posteritymitral.php"><span style="display: none;">joyous-hitch</span></a> </div>
+            </div>
+            <div id="right">
+                <h4><a href="lib/authors/bullitt/theravada.htm">Что такое
+              буддизм традиции Тхеравада?</a></h4>
+                <br>
+                <div class="pic"><img src="static/img/temples.jpg"></div>
+                <p align="justify">Тхеравада (произносится как т'эра-вада) или "учение старейших", – это буддийская школа, которая получила своё духовное знание из текстов "Палийского Канона", который также называют "Типитака". Считается, что канон содержит наиболее ранние из дошедших до нас учений Будды Сакьямуни. В течение множества веков буддизм Тхеравады является основной религией в континентальной части юго-восточной Азии (Тайланд, Бирма, Камбоджа и Лаос) и на Шри-Ланке. Сегодня в мире насчитывается около 100 миллионов буддистов Тхеравады. Последние несколько десятков лет учение Тхеравады начало распространяться и в западных странах...</p>
+                <h4><a href="faq.htm">Ответы на часто задаваемые вопросы</a></h4>
+                <br>
+                <div class="pic1"><img src="static/img/thanovice.jpg"></div>
+                <p align="justify">Будда называл свои учения Дхамма-виная, то есть "учение и дисциплина". Однако уже несколько веков люди пытаются разбить это учение на категории и подогнать его под шаблоны господствующих культурных, философских или религиозных воззрений. Буддизм – это этическая система, образ жизни, ведущий к особой цели. Он имеет в себе аспекты как религии, так и философии...</p>
+                <!-- <h2>Новости:</h2> <p>&nbsp;</p> <h4><a href="http://www.forest-sangha.ru/" target="_blank"  rel="nofollow">Приезд легендарного монаха</a></h4> <div class="pic"><img src="static/img/ajahn_jayasaro.jpg" /></div> <p>&nbsp;</p> <p>Ачан Джаясаро, последний ученик Ачана Чаа, <a href="http://www.forest-sangha.ru/" target="_blank"  rel="nofollow">посетил Москву (30 мая) и Петербург (2-3 июня)</a>.</p> <p>&nbsp;</p> <p>&nbsp;</p> -->
+                <p>&nbsp;</p>
+                <h2>Последние обновления:</h2>
+                <p> </p>
+                <p> </p>
+                <h4>Прамоте Памодджо <a href="http://www.youtube.com/watch?v=V6rISJD9VJk" rel="nofollow">О развитии памятования в повседневной жизни</a></h4>
+                <br> Лекция, прочитанная досточтимым Прамоте Памодджо 29 апреля 2009 года в "Открытом университете Сукхотай Тхамматират".
+                <br> (Чтобы увидеть субтитры, нажмите на иконку субтитров справа внизу от видео).
+
+                <iframe src="https://www.youtube.com/embed/V6rISJD9VJk" allowfullscreen="" width="480" height="360" frameborder="0"></iframe>
+                <p> </p>
+                <p> </p>
+                <h4>Тханиссаро Бхиккху <a href="lib/authors/thanissaro/levels.htm" target="_blank">Три уровня собранности ума.</a></h4>
+                <div class="pic"><img src="static/img/thanissaro_small.jpg"></div>
+                <p>&nbsp;</p>
+                <p>Ачан Суват часто говорил, что успокаиваться в состоянии собранности ума — это всё равно, что погружаться в сон, с той лишь разницей, что вы всё-таки не засыпаете. И именно в этом заключается сложность. Иначе говоря, как успокоить ум и при этом оставаться бодрствующим?</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>Тханиссаро Бхиккху <a href="lib/authors/thanissaro/papanca.htm" target="_blank">Стрелы мышления.
+Папанча (papañca) и путь к прекращению страдания.</a></h4>
+                <p>&nbsp;</p>
+                <p>Если мы рассматриваем себя и мир вокруг нас как предметы, а не как явления и процессы, это становится причиной возникновения восприятия, приводящего к внутренним и внешним конфликтам.</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>Тханиссаро Бхиккху <a href="lib/authors/thanissaro/tunnel.htm" target="_blank">Светлый туннель</a></h4>
+                <p>&nbsp;</p>
+                <p>Постоянная гонка за вещами и цепляние за них ставят ум в скверное положение. Другими словами, присвоение – это подпитка. Вы пытаетесь насытиться вещами. Ум, питающийся то здесь, то там – это голодный ум. Источник питания для такого ума должен находиться под постоянной защитой. Он привязан к этому источнику. Он ограничен своей собственной потребностью присваивать. Так что, развивайте силы своего ума до тех пор, пока ум более не будет нуждаться в пище и не прекратит цепляться за вещи. </p>
+                <p>&nbsp;
+                    <br>
+                </p>
+                <h4>Тханиссаро Бхиккху <a href="lib/authors/thanissaro/egoless.htm" target="_blank">Проблема отсутствия эго</a></h4>
+                <p>&nbsp;</p>
+                <p>Будда говорит, что мудрость начинается с простого вопроса: Что из того, что я делаю, приведет меня к долгосрочному счастью? В этом случае мудрость заключается в понимании того, что счастье зависит от действий, и что значение имеет лишь стремление к долгосрочному счастью. Проверка для роста вашей мудрости заключается в умелой стратегии, а именно: вы в состоянии удержаться от совершения таких действий, которые вам нравятся, но приносят долгосрочный вред, а также способны настроить себя на совершение действий, которые вам не нравятся, но приводят к долгосрочному процветанию и счастью. Иначе говоря, зрелая мудрость требует (от вас) зрелого эго.</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>Па-Аук Тоя Саядо <a href="lib/authors/paauk/kamma_1.pdf" target="_blank">Действие каммы</a> (PDF)</h4>
+                <div class="pic1"><img src="static/img/pa_auk.jpg" height="125"></div>
+                <p>&nbsp;</p>
+                <p>Книга «Действие каммы» представляет собой подробное исследование и объяснение механизма действия каммы, выполненное в соответствии с палийскими текстами: Винаей, суттами, Абхидхаммой, а также авторитетными комментариями и под-комментариями.
+                </p>
+                <p>&nbsp;</p>
+                <h4>Аджан Сумедхо <a href="lib/authors/sumedho/4NobleTruths.pdf" target="_blank">Четыре Благородные Истины</a> (PDF)</h4>
+                <div class="pic"><img src="static/img/sumedho.jpg" height="125"></div>
+                <p>&nbsp;</p>
+                <p>Эта небольшая книга является редакцией собрания лекций, прочитанных достопочтенным Аджаном Сумедхо на основную тему учения Будды: что тяготы человеческого существования могут быть превзойдены с помощью духовных средств.</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>Аджан Тонг Сиримангало <a href="lib/authors/misc/The_Only_Way.pdf" target="_blank">Единственный              путь: введение в медитацию Випассана</a> (PDF)</h4>
+                <div class="pic1"><img src="static/img/Monk_Thong.jpg" height="125"></div>
+                <p>&nbsp;</p>
+                <p>Великий Будда обнаружил, что для того чтобы полностью искоренить любые неблаготворные, негативные состояния и все страдания, люди должны очищать ум от <i>килеса</i> (<i>Kilesa</i>, загрязнений ума, состоящих из желания, гнева и заблуждения). Загрязнения ума суть причина всех разрушительных мыслей, речей и поступков. Таким образом, эти загрязнения являются корнем всех страданий в мире. С умом, очищенным от загрязнений, люди не творили бы злых дел. С чистым умом люди могли бы делать только хорошие и благородные дела. Таким образом, с очищением ума приходят истинные доброта и счастье. Когда ум очищен, можно быть по-настоящему счастливым. Только тогда страдания, порожденные загрязнениями ума, наконец прекращаются.</p>
+                <p>&nbsp;</p>
+                <h4>Лал Мани Джоши <a href="lib/authors/misc/studies.html" target="_blank">У истоков упадка буддизма в Индии</a></h4>
+                <div class="pic"><img src="static/img/Lal_Mani_J.jpg" height="125"></div>
+                <p>&nbsp;</p>
+                <p>Индийский профессор Лал Мани Джоши описывает в этой главе из своей книги причины, приведшие к упадку буддизма в Индии: нравственное разложение, разногласия между буддийскими сектами, влияние Махаяны и тантры, враждебность со стороны брахманов, слияние буддизма с брахманизмом, уменьшение государственной поддержки, преследование со стороны властей.</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>Томас Рис-Девидс <a href="lib/authors/misc/buddhism.html" target="_blank">Буддизм</a></h4>
+                <div class="pic1"><img src="static/img/rhysdavids.jpg" height="125"></div>
+                <p>&nbsp;</p>
+                <p>Книга проф. Т. В. Рисъ-Дэвидса представляетъ собою шесть чтеній, произнесенныхъ имъ зимою 1894—1895 г. въ разныхъ городахъ Америки по приглашенію „Американскаго Комитета чтеній по исторіи религій“, и напечатана въ Нью-Іоркѣ въ 1896 году. Имя проф. Рисъ-Дэвидса, одного изъ лучшихъ знатоковъ буддизма и автора многихъ книгъ, посвященныхъ изученію этой религіи, являлось гарантіей достоинства его „чтеній"; и, действительно, чтенія эти даютъ прекрасный очеркъ буддизма, ученіе котораго изложено въ палійскомъ канонѣ; очеркъ этотъ имѣетъ еще громадное преимущество краткости, весьма существенной для общедоступности изложенія какого бы то ни было предмета.</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>Записи лекций Ачана Джаясаро:</h4>
+                <p><a href="http://www.youtube.com/view_play_list?p=8A837ABC4F814F2F" target="_blank" rel="nofollow">Серия из 14 видеороликов по
+              буддийской медитации</a></p>
+                <iframe src="http://www.youtube.com/embed/videoseries?list=PL8A837ABC4F814F2F" allowfullscreen="" rel="nofollow" width="560" height="315" frameborder="0"> </iframe>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <h4>Хенепола Гунаратана <a href="http://www.youtube.com/watch?v=LAxIBou5YXA" rel="nofollow">Основы медитации</a></h4>
+                <br> Когда ум ясен, чист, прост, свободен от многочисленных психических раздражающих факторов, – то ум очень легок.
+                <iframe src="http://www.youtube.com/embed/LAxIBou5YXA?rel=0" allowfullscreen="" width="480" height="360" frameborder="0"></iframe>
+            </div>
+        </div>
+        <!-- content ends -->
+    </div>
+    <center>
+        <!--Rating@Mail.ru COUNTEr-->
+        <script language="JavaScript" type="text/javascript">
+            <!--
+            d = document;
+            var a = '';
+            a += ';r=' + escape(d.referrer)
+            js = 10 //-->
+
+        </script>
+        <script language="JavaScript1.1" type="text/javascript">
+            <!--
+            a += ';j=' + navigator.javaEnabled()
+            js = 11 //-->
+
+        </script>
+        <script language="JavaScript1.2" type="text/javascript">
+            <!--
+            s = screen;
+            a += ';s=' + s.width + '*' + s.height
+            a += ';d=' + (s.colorDepth ? s.colorDepth : s.pixelDepth)
+            js = 12 //-->
+
+        </script>
+        <script language="JavaScript1.3" type="text/javascript">
+            <!--
+            js = 13 //-->
+
+        </script>
+        <script language="JavaScript" type="text/javascript">
+            <!--
+            d.write('<a href="http://top.mail.ru/jump?from=34561"' +
+                ' target=_top><img src="http://d7.c8.b0.a0.top.list.ru/counter' +
+                '?id=34561;t=109;js=' + js + a + ';rand=' + Math.random() +
+                '" alt="Рейтинг@Mail.ru"' + ' border=0 height=18 width=88/><\/a>')
+            if (11 < js) d.write('<' + '!-- ') //-->
+
+        </script>
+        <noscript>
+            <a target="_top" href="http://top.mail.ru/jump?from=34561" rel="nofollow"><img src="http://d7.c8.b0.a0.top.list.ru/counter?js=na;id=34561;t=109" alt="Рейтинг@Mail.ru" width="88" height="18" border="0"></a>
+        </noscript>
+        <script language="JavaScript" type="text/javascript">
+            <!--
+            if (11 < js) d.write('--' + '>') //-->
+
+        </script>
+        <!--begin of Top100 logo-->
+        <a href="http://top100.rambler.ru/top100/" rel="nofollow"><img src="static/img/banner-88x31-rambler-black2.gif" alt="Rambler's
+          Top100" width="88" height="31" border="0"></a>
+        <!--end of Top100 logo -->
+        <a href="http://www.yandex.ru/cy?base=0&amp;host=dhamma.ru" target="_blank" rel="nofollow"><img src="http://www.yandex.ru/cycounter?dhamma.ru" alt="Яндекс
+          цитирования" rel="nofollow" width="88" height="31" border="0"></a>
+        <script type="text/javascript">
+            <!--
+            var st24Date = (new Date()).getTime();
+            var st24Src = 'http://ua5.hit.stat24.com/_' + st24Date;
+            st24Src += '/script.js?id=';
+            st24Src += 'p8070.ct_E1Od3S7Udoq8rQYLb8Wb08lP7pdPJMexHH.n7/l=11';
+            var st24Tg = '<' + 'scr' + 'ipt type="text/javascript" src="';
+            document.writeln(st24Tg + st24Src + '"></' + 'scr' + 'ipt>');
+            //-->
+
+        </script>
+<a href="http://www.beyondsecurity.com/vulnerability-scanner-verification/dhamma.ru"><img src="https://seal.beyondsecurity.com/verification-images/dhamma.ru/vulnerability-scanner-8.gif" alt="Vulnerability Scanner" border="0"></a>
+    </center>
+    <script type="text/javascript">
+        var reformalOptions = {
+            project_id: 86141,
+            project_host: "dhamma.reformal.ru",
+            tab_orientation: "right",
+            tab_indent: "50%",
+            tab_bg_color: "#F05A00",
+            tab_border_color: "#FFFFFF",
+            tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/88128dfd6ca0743b5ccc2f8afed9f3b1/right/0/tab.png",
+            tab_border_width: 2
+        };
+
+        (function() {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.async = true;
+            script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+    </script>
+    <noscript>
+        <a href="http://reformal.ru" rel="nofollow"><img src="http://media.reformal.ru/reformal.png" rel="nofollow"></a><a href="http://dhamma.reformal.ru" rel="nofollow">Oтзывы и предложения для Колесо
+Дхаммы</a></noscript>
+    <div style="display: none;">
+        <h1>Тхеравада Буддизм</h1>
+    </div>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter25164260 = new Ya.Metrika({
+                        id: 25164260
+                    });
+                } catch (e) {}
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function() {
+                    n.parentNode.insertBefore(s, n);
+                };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else {
+                f();
+            }
+        })(document, window, "yandex_metrika_callbacks");
+
+    </script>
+    <noscript>
+        <div><img src="//mc.yandex.ru/watch/25164260" style="position:absolute; left:-9999px;" alt=""></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+
+
